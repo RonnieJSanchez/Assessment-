@@ -1,0 +1,77 @@
+/* add code here to make your image 300px square */
+<img src="https://scontent.faus1-1.fna.fbcdn.net/v/t1.18169-9/1379860_10201153255331674_51233167_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=a9b1d2&_nc_ohc=cvbXvD1HOcYAX9Pw7Nd&_nc_ht=scontent.faus1-1.fna&oh=00_AT_RDnqG7Xs6IdXLa3-OpjcCH1t-XmWJcvhnPO_TWZ1u8w&oe=6252FB69" 
+class="stevieGirl" />
+
+.stevieGirl {
+  width:300px;
+  height:300px;
+  object-fit:auto;
+ 
+}
+img {
+  width: auto;
+  height: 300px;
+}
+/* add code here to change the color and font family of your name/title */
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: lightseagreen; 
+  font-size: 40px;
+  text-align:center;
+
+}
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: darkcyan; 
+  font-size: 20px;
+  text-align:center;
+ 
+}
+h3 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: darkcyan; 
+  font-size: 15px;
+  text-align:center;
+}
+hr {
+  border-top: 2px dotted lightseagreen;
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  color: darkcyan; 
+  font-size: 18px;
+  text-align:center;
+}
+
+ol {
+  font-family: Arial, Helvetica, sans-serif;
+  color: lightseagreen; 
+  font-size: 20px;
+  font-weight: bold;
+  text-align:center;
+}
+li.open {list-style: circle;}
+li.closed {list-style: square;}
+
+li.open {
+  font-family: Arial, Helvetica, sans-serif;
+  color: cornflowerblue; 
+  font-size: 15px;
+  text-align:center;
+}
+li.closed {
+  font-family: Arial, Helvetica, sans-serif;
+  color: darkorange; 
+  font-size: 15px;
+  text-align:center;
+}
+.content {
+  max-width: 500px;
+  margin: auto;
+  background: lightgoldenrodyellow;
+  padding: 10px;
+  text-align:center;
+}
+
+/* Bonus: change the color of your list elements */
