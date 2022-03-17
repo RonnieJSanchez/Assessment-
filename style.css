@@ -52,16 +52,14 @@ ol {
   font-weight: bold;
   text-align:center;
 }
-li.open {list-style: circle;}
-li.closed {list-style: square;}
 
-li.open {
+li {
   font-family: Arial, Helvetica, sans-serif;
   color: cornflowerblue; 
   font-size: 15px;
   text-align:center;
 }
-li.closed {
+li{
   font-family: Arial, Helvetica, sans-serif;
   color: darkorange; 
   font-size: 15px;
